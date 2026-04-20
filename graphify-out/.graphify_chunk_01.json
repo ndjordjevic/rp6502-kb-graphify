@@ -1,0 +1,1756 @@
+{
+  "nodes": [
+    {
+      "id": "web_readme",
+      "label": "Web Clips README",
+      "file_type": "document",
+      "source_file": "raw/web/README.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "cc65_rp6502_doc",
+      "label": "Picocomputer 6502 \u2014 cc65 Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": null,
+      "source_url": "https://cc65.github.io/doc/rp6502.html",
+      "captured_at": "2026-04-18",
+      "author": "Ullrich von Bassewitz",
+      "contributor": null
+    },
+    {
+      "id": "picocomputer_overview_doc",
+      "label": "Picocomputer 6502 Overview Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "picocomputer_hardware_doc",
+      "label": "Picocomputer 6502 Hardware Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/hardware.html",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rp6502ria_doc",
+      "label": "RP6502-RIA Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/ria.html",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rp6502riaw_doc",
+      "label": "RP6502-RIA-W Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/ria_w.html",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rp6502vga_doc",
+      "label": "RP6502-VGA Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/vga.html",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rp6502os_doc",
+      "label": "RP6502-OS Documentation",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/os.html",
+      "captured_at": "2026-04-15",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "decimal_mode_doc",
+      "label": "Decimal Mode (BCD) Tutorial \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Decimal Mode \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/decimal_mode.html",
+      "captured_at": "2026-04-18",
+      "author": "Bruce Clark",
+      "contributor": null
+    },
+    {
+      "id": "interrupts_doc",
+      "label": "Investigating Interrupts \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/interrupts.html",
+      "captured_at": "2026-04-18",
+      "author": "John Pickens",
+      "contributor": null
+    },
+    {
+      "id": "register_preservation_doc",
+      "label": "Register Preservation Using The Stack \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/register_preservation.html",
+      "captured_at": "2026-04-18",
+      "author": "Bruce Clark",
+      "contributor": null
+    },
+    {
+      "id": "compare_instructions_doc",
+      "label": "6502 Compare Instructions Tutorial \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/6502 Compare Instructions \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/compare_instructions.html",
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "nmos6502_opcodes_doc",
+      "label": "NMOS 6502 Opcodes Reference \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/6502opcodes.html",
+      "captured_at": "2026-04-18",
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "65c02_opcodes_doc",
+      "label": "65C02 Opcodes Reference \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/65c02opcodes.html",
+      "captured_at": "2026-04-18",
+      "author": "Bruce Clark",
+      "contributor": null
+    },
+    {
+      "id": "beyond_8bit_comparisons_doc",
+      "label": "Beyond 8-bit Unsigned Comparisons \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/compare_beyond.html",
+      "captured_at": "2026-04-18",
+      "author": "Bruce Clark",
+      "contributor": null
+    },
+    {
+      "id": "overflow_vflag_doc",
+      "label": "The Overflow (V) Flag Explained \u2014 6502.org",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/The Overflow (V) Flag Explained \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": "https://6502.org/tutorials/vflag.html",
+      "captured_at": "2026-04-18",
+      "author": "Bruce Clark",
+      "contributor": null
+    },
+    {
+      "id": "concept_rp6502ria",
+      "label": "RP6502-RIA Interface Adapter",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/ria.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rp6502riaw",
+      "label": "RP6502-RIA-W (WiFi Variant)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/ria_w.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rp6502vga",
+      "label": "RP6502-VGA Video Adapter",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/vga.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rp6502os",
+      "label": "RP6502-OS Operating System",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://picocomputer.github.io/os.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_w65c02s",
+      "label": "W65C02S CPU",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_w65c22s",
+      "label": "W65C22S VIA (Versatile Interface Adapter)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_pi_pico2",
+      "label": "Raspberry Pi Pico 2",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_pix_bus",
+      "label": "PIX Bus (Pico Information Exchange)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_xram",
+      "label": "XRAM (Extended RAM, 64KB shared)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_cc65",
+      "label": "cc65 Compiler Toolchain",
+      "file_type": "document",
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": null,
+      "source_url": "https://cc65.github.io/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_llvm_mos",
+      "label": "llvm-mos Compiler Toolchain",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": "https://llvm-mos.org/",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_posix_api",
+      "label": "POSIX-like OS API (RP6502-OS ABI)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_rp6502_memory_layout",
+      "label": "RP6502 Memory Layout",
+      "file_type": "document",
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_65c02_isa",
+      "label": "65C02 Instruction Set Architecture",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_nmos6502_isa",
+      "label": "NMOS 6502 Instruction Set Architecture",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_bcd_decimal_mode",
+      "label": "BCD Decimal Mode (D Flag, ADC/SBC)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Decimal Mode \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_interrupt_handling",
+      "label": "6502 Interrupt Handling (IRQ/NMI/BRK)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_stack_register_preservation",
+      "label": "Stack-Based Register Preservation",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_compare_instructions",
+      "label": "6502 Compare Instructions (CMP/CPX/CPY)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/6502 Compare Instructions \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_overflow_vflag",
+      "label": "Overflow (V) Flag",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/The Overflow (V) Flag Explained \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_jmp_indirect_bug",
+      "label": "JMP Indirect Bug (NMOS 6502 page-boundary)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_wai_instruction",
+      "label": "WAI Instruction (65C02 ultra-fast interrupt response)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_phx_phy_instructions",
+      "label": "PHX/PHY/PLX/PLY Instructions (65C02 stack push/pull X/Y)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "concept_vga_video_modes",
+      "label": "RP6502-VGA Video Modes (Console/Character/Tile/Bitmap/Sprite)",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": null,
+      "source_url": null,
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_pix_bus_design",
+      "label": "Rationale: PIX Bus created due to limited Pico GPIO pins",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Pico Information Exchange (PIX)",
+      "source_url": "https://picocomputer.github.io/ria.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_no_rom_design",
+      "label": "Rationale: No ROM in 6502 address space (RP6502 loads to RAM)",
+      "file_type": "document",
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 3. Memory layout \u2014 ROM",
+      "source_url": "https://cc65.github.io/doc/rp6502.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_interrupt_vs_polling",
+      "label": "Rationale: Interrupts preferred over polling for async I/O",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.2 SCENARIOS WHERE INTERRUPTS ARE USEFUL",
+      "source_url": "https://6502.org/tutorials/interrupts.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_65c02_d_flag_clear_on_interrupt",
+      "label": "Rationale: 65C02 clears D flag on interrupt (6502 does not)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.3 GETTING TO THE NUTS AND BOLTS \u2014 Interrupt Sequence Overview",
+      "source_url": "https://6502.org/tutorials/interrupts.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_65c02_phx_phy_simplify_isr",
+      "label": "Rationale: PHX/PHY simplify ISR register preservation vs 6502 workarounds",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 65C02 Register Preservation",
+      "source_url": "https://6502.org/tutorials/register_preservation.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_jmp_indirect_fix_65c02",
+      "label": "Rationale: 65C02 fixes JMP indirect page-boundary bug (costs 1 extra cycle)",
+      "file_type": "document",
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "## JMP (JuMP) \u2014 IMPORTANT note",
+      "source_url": "https://6502.org/tutorials/6502opcodes.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    },
+    {
+      "id": "rationale_xram_no_paged_memory",
+      "label": "Rationale: XRAM bulk I/O at 512 KB/sec eliminates need for paged memory",
+      "file_type": "document",
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "#### Bulk XRAM Operations",
+      "source_url": "https://picocomputer.github.io/os.html",
+      "captured_at": null,
+      "author": null,
+      "contributor": null
+    }
+  ],
+  "edges": [
+    {
+      "source": "web_readme",
+      "target": "cc65_rp6502_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 cc65.github.io row",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "picocomputer_overview_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "picocomputer_hardware_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "rp6502ria_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "rp6502riaw_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "rp6502vga_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "rp6502os_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 picocomputer.github.io table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "decimal_mode_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "interrupts_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "register_preservation_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "compare_instructions_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "nmos6502_opcodes_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "65c02_opcodes_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "beyond_8bit_comparisons_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "web_readme",
+      "target": "overflow_vflag_doc",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/README.md",
+      "source_location": "## Files \u2014 6502.org table",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 1. Overview + ## 3. Memory layout \u2014 RIA",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 1. Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_w65c02s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 1. Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_w65c22s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 3. Memory layout \u2014 VIA",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_rp6502_memory_layout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 3. Memory layout",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "concept_cc65",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 1. Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "cc65_rp6502_doc",
+      "target": "rationale_no_rom_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 3. Memory layout \u2014 ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_no_rom_design",
+      "target": "concept_rp6502_memory_layout",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/cc65.github.io/Picocomputer 6502 \u2014 cc65 documentation.md",
+      "source_location": "## 3. Memory layout \u2014 ROM",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Documentation",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_rp6502riaw",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Documentation",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Documentation",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_rp6502os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Documentation",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_w65c02s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Specs",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_cc65",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Programming",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_overview_doc",
+      "target": "concept_llvm_mos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Programming",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_hardware_doc",
+      "target": "concept_w65c02s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": "## Full Parts List \u2014 U1",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_hardware_doc",
+      "target": "concept_w65c22s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": "## Full Parts List \u2014 U5",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_hardware_doc",
+      "target": "concept_pi_pico2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": "## Full Parts List \u2014 U2/U4",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_hardware_doc",
+      "target": "concept_rp6502riaw",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": "## Step 5. Pi Pico Firmware",
+      "weight": 1.0
+    },
+    {
+      "source": "picocomputer_hardware_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/Hardware \u2014 Picocomputer  documentation.md",
+      "source_location": "## Step 5. Pi Pico Firmware",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_pix_bus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Pico Information Exchange (PIX)",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_xram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## PIX Extended RAM (XRAM)",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_rp6502os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Reset",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_w65c02s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "concept_pi_pico2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502ria_doc",
+      "target": "rationale_pix_bus_design",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Pico Information Exchange (PIX)",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_pix_bus_design",
+      "target": "concept_pix_bus",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Pico Information Exchange (PIX)",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502riaw_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502riaw_doc",
+      "target": "concept_rp6502riaw",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502riaw_doc",
+      "target": "concept_rp6502os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": "## Network Time Protocol (NTP)",
+      "weight": 1.0
+    },
+    {
+      "source": "concept_rp6502riaw",
+      "target": "concept_rp6502ria",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction \u2014 provides all features of RP6502-RIA plus wireless",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_pix_bus",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_xram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction + ## Video Programming",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_vga_video_modes",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Video Programming \u2014 Mode 0-5",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502vga_doc",
+      "target": "concept_pi_pico2",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_rp6502os",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_rp6502ria",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_cc65",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_llvm_mos",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_xram",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Application Binary Interface + Bulk XRAM Operations",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_posix_api",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_rp6502_memory_layout",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Memory Map",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "concept_rp6502vga",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Memory Map \u2014 XRAM",
+      "weight": 1.0
+    },
+    {
+      "source": "rp6502os_doc",
+      "target": "rationale_xram_no_paged_memory",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "#### Bulk XRAM Operations",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_xram_no_paged_memory",
+      "target": "concept_xram",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "#### Bulk XRAM Operations",
+      "weight": 1.0
+    },
+    {
+      "source": "decimal_mode_doc",
+      "target": "concept_bcd_decimal_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Decimal Mode \u2014 6502.org.md",
+      "source_location": "## Introduction",
+      "weight": 1.0
+    },
+    {
+      "source": "decimal_mode_doc",
+      "target": "concept_65c02_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Decimal Mode \u2014 6502.org.md",
+      "source_location": "## 3.2.3 Cycle Counts on the 65C02",
+      "weight": 1.0
+    },
+    {
+      "source": "decimal_mode_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Decimal Mode \u2014 6502.org.md",
+      "source_location": "## Introduction \u2014 6502 decimal mode",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "concept_interrupt_handling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.3 GETTING TO THE NUTS AND BOLTS",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "concept_wai_instruction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 2.3 WAI: Faster Interrupt Service on the 65C02",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "concept_w65c22s",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 3.1 Interrupt Support for RS-232 Receive",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "concept_65c02_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 2.3 WAI / 65C02 D flag cleared on interrupt",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "rationale_interrupt_vs_polling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.2 SCENARIOS WHERE INTERRUPTS ARE USEFUL",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_interrupt_vs_polling",
+      "target": "concept_interrupt_handling",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.2 SCENARIOS WHERE INTERRUPTS ARE USEFUL",
+      "weight": 1.0
+    },
+    {
+      "source": "interrupts_doc",
+      "target": "rationale_65c02_d_flag_clear_on_interrupt",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.3 Interrupt Sequence Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_65c02_d_flag_clear_on_interrupt",
+      "target": "concept_65c02_isa",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Investigating Interrupts \u2014 6502.org.md",
+      "source_location": "## 1.3 Interrupt Sequence Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "concept_stack_register_preservation",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "concept_phx_phy_instructions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 65C02 Register Preservation",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "concept_65c02_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 65C02 Register Preservation",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 6502 Register Preservation",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "concept_interrupt_handling",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## BRK/IRQ Handler Implementation",
+      "weight": 1.0
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "rationale_65c02_phx_phy_simplify_isr",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 65C02 Approach vs 6502 Approach",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_65c02_phx_phy_simplify_isr",
+      "target": "concept_phx_phy_instructions",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## 65C02 Register Preservation",
+      "weight": 1.0
+    },
+    {
+      "source": "compare_instructions_doc",
+      "target": "concept_compare_instructions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/6502 Compare Instructions \u2014 6502.org.md",
+      "source_location": "## Overview",
+      "weight": 1.0
+    },
+    {
+      "source": "compare_instructions_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/6502 Compare Instructions \u2014 6502.org.md",
+      "source_location": "## Compare Instruction Types",
+      "weight": 1.0
+    },
+    {
+      "source": "nmos6502_opcodes_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "Full document",
+      "weight": 1.0
+    },
+    {
+      "source": "nmos6502_opcodes_doc",
+      "target": "concept_jmp_indirect_bug",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "## JMP \u2014 IMPORTANT",
+      "weight": 1.0
+    },
+    {
+      "source": "nmos6502_opcodes_doc",
+      "target": "concept_bcd_decimal_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "## ADC / ## SBC",
+      "weight": 1.0
+    },
+    {
+      "source": "nmos6502_opcodes_doc",
+      "target": "concept_overflow_vflag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "## Flag Instructions \u2014 Overflow Flag",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "concept_65c02_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "Full document",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 1. Introduction \u2014 differences vs NMOS 6502",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "concept_jmp_indirect_bug",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## JMP (abs,X) addressing mode",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "concept_wai_instruction",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 5. Additional WDC 65C02 Instructions",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "concept_phx_phy_instructions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 3. Additional Instructions \u2014 PHX PHY PLX PLY",
+      "weight": 1.0
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "rationale_jmp_indirect_fix_65c02",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 8. Instructions with Functional and Cycle-Count Differences \u2014 JMP",
+      "weight": 1.0
+    },
+    {
+      "source": "rationale_jmp_indirect_fix_65c02",
+      "target": "concept_jmp_indirect_bug",
+      "relation": "rationale_for",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## Instructions with Functional Differences",
+      "weight": 1.0
+    },
+    {
+      "source": "beyond_8bit_comparisons_doc",
+      "target": "concept_compare_instructions",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": "## Review of compare instructions",
+      "weight": 1.0
+    },
+    {
+      "source": "beyond_8bit_comparisons_doc",
+      "target": "concept_overflow_vflag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": "## 5. Signed comparisons \u2014 N XOR V",
+      "weight": 1.0
+    },
+    {
+      "source": "beyond_8bit_comparisons_doc",
+      "target": "concept_nmos6502_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": "Full document",
+      "weight": 1.0
+    },
+    {
+      "source": "overflow_vflag_doc",
+      "target": "concept_overflow_vflag",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/The Overflow (V) Flag Explained \u2014 6502.org.md",
+      "source_location": "Full document",
+      "weight": 1.0
+    },
+    {
+      "source": "overflow_vflag_doc",
+      "target": "concept_65c02_isa",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/The Overflow (V) Flag Explained \u2014 6502.org.md",
+      "source_location": "## BIT \u2014 65C02 additional modes",
+      "weight": 1.0
+    },
+    {
+      "source": "overflow_vflag_doc",
+      "target": "concept_bcd_decimal_mode",
+      "relation": "references",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/The Overflow (V) Flag Explained \u2014 6502.org.md",
+      "source_location": "## Appendix B: What About Decimal Mode?",
+      "weight": 1.0
+    },
+    {
+      "source": "concept_65c02_isa",
+      "target": "concept_nmos6502_isa",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 1. Introduction",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_jmp_indirect_bug",
+      "target": "concept_nmos6502_isa",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/NMOS 6502 Opcodes \u2014 6502.org.md",
+      "source_location": "## JMP",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_phx_phy_instructions",
+      "target": "concept_65c02_isa",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 3. Additional Instructions",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_wai_instruction",
+      "target": "concept_65c02_isa",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 5. Additional WDC 65C02 Instructions",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_rp6502ria",
+      "target": "concept_pix_bus",
+      "relation": "conceptually_related_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Pico Information Exchange",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_pix_bus",
+      "target": "concept_xram",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA \u2014 Picocomputer  documentation.md",
+      "source_location": "## PIX Extended RAM (XRAM)",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_xram",
+      "target": "concept_rp6502vga",
+      "relation": "shares_data_with",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction \u2014 shared 64K of XRAM",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_w65c02s",
+      "target": "concept_65c02_isa",
+      "relation": "implements",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Specs \u2014 WDC 65C02 CPU",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_stack_register_preservation",
+      "target": "concept_interrupt_handling",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## BRK/IRQ Handler Implementation",
+      "weight": 0.85
+    },
+    {
+      "source": "concept_overflow_vflag",
+      "target": "concept_compare_instructions",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": "## 5. Signed comparisons \u2014 N XOR V method",
+      "weight": 0.85
+    },
+    {
+      "source": "concept_rp6502os",
+      "target": "concept_posix_api",
+      "relation": "implements",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_rp6502os",
+      "target": "concept_rp6502ria",
+      "relation": "conceptually_related_to",
+      "confidence": "EXTRACTED",
+      "confidence_score": 1.0,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction \u2014 runs on RP6502-RIA",
+      "weight": 0.9
+    },
+    {
+      "source": "concept_rp6502ria",
+      "target": "concept_rp6502riaw",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.95,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-RIA-W \u2014 Picocomputer  documentation.md",
+      "source_location": "## Introduction",
+      "weight": 0.95
+    },
+    {
+      "source": "65c02_opcodes_doc",
+      "target": "nmos6502_opcodes_doc",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.9,
+      "source_file": "raw/web/6502.org/65C02 Opcodes \u2014 6502.org.md",
+      "source_location": "## 1. Introduction",
+      "weight": 0.9
+    },
+    {
+      "source": "compare_instructions_doc",
+      "target": "beyond_8bit_comparisons_doc",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/web/6502.org/6502 Compare Instructions \u2014 6502.org.md",
+      "source_location": "Both cover CMP/CPX/CPY",
+      "weight": 0.88
+    },
+    {
+      "source": "concept_cc65",
+      "target": "concept_llvm_mos",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.85,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md",
+      "source_location": "## Programming \u2014 both listed as compiler toolchains for RP6502",
+      "weight": 0.85
+    },
+    {
+      "source": "overflow_vflag_doc",
+      "target": "beyond_8bit_comparisons_doc",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.8,
+      "source_file": "raw/web/6502.org/Beyond 8-bit Unsigned Comparisons \u2014 6502.org.md",
+      "source_location": "## 5. Signed comparisons uses V flag",
+      "weight": 0.8
+    },
+    {
+      "source": "register_preservation_doc",
+      "target": "interrupts_doc",
+      "relation": "semantically_similar_to",
+      "confidence": "INFERRED",
+      "confidence_score": 0.75,
+      "source_file": "raw/web/6502.org/Register Preservation Using The Stack \u2014 6502.org.md",
+      "source_location": "## BRK/IRQ Handler \u2014 both cover ISR patterns",
+      "weight": 0.75
+    }
+  ],
+  "hyperedges": [
+    {
+      "id": "picocomputer_6502_core_platform",
+      "label": "Picocomputer 6502 Core Hardware Platform",
+      "nodes": [
+        "concept_w65c02s",
+        "concept_w65c22s",
+        "concept_rp6502ria"
+      ],
+      "relation": "form",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.98,
+      "source_file": "raw/web/picocomputer.github.io/Picocomputer 6502 \u2014 Picocomputer  documentation.md"
+    },
+    {
+      "id": "pix_xram_vga_pipeline",
+      "label": "PIX Bus / XRAM / RP6502-VGA Video Data Pipeline",
+      "nodes": [
+        "concept_pix_bus",
+        "concept_xram",
+        "concept_rp6502vga"
+      ],
+      "relation": "participate_in",
+      "confidence": "EXTRACTED",
+      "confidence_score": 0.97,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-VGA \u2014 Picocomputer  documentation.md"
+    },
+    {
+      "id": "rp6502_programming_environment",
+      "label": "RP6502 Programming Environment (cc65 + llvm-mos + RP6502-OS)",
+      "nodes": [
+        "concept_cc65",
+        "concept_llvm_mos",
+        "concept_rp6502os"
+      ],
+      "relation": "form",
+      "confidence": "INFERRED",
+      "confidence_score": 0.88,
+      "source_file": "raw/web/picocomputer.github.io/RP6502-OS \u2014 Picocomputer  documentation.md"
+    }
+  ],
+  "input_tokens": 0,
+  "output_tokens": 0
+}
