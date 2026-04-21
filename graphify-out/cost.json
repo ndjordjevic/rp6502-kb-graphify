@@ -1,12 +1,25 @@
 {
   "runs": [
     {
-      "date": "2026-04-20T04:39:31.269812+00:00",
+      "date": "2026-04-21T04:24:10.493813+00:00",
       "input_tokens": 0,
       "output_tokens": 0,
-      "files": 16
+      "files": 6
+    },
+    {
+      "date": "2026-04-21T07:48:24.210295+00:00",
+      "input_tokens": 62,
+      "output_tokens": 2180,
+      "files": 167
+    },
+    {
+      "date": "2026-04-21T08:14:48.022878+00:00",
+      "input_tokens": 0,
+      "output_tokens": 0,
+      "files": 6,
+      "note": "merge web docs into rp6502 graph (all from cache)"
     }
   ],
-  "total_input_tokens": 0,
-  "total_output_tokens": 0
+  "total_input_tokens": 62,
+  "total_output_tokens": 2180
 }

@@ -1,0 +1,29 @@
+---
+description: graphify knowledge graph context
+alwaysApply: true
+---
+
+This project has a graphify knowledge graph under `graphify-out/` (`GRAPH_REPORT.md`, `graph.json`, optional `wiki/`).
+
+## When to use it (do this first for *breadth*)
+
+For **architecture, integration, or “how does X connect to Y?”** questions:
+
+1. Skim **`graphify-out/GRAPH_REPORT.md`**: **God nodes**, **Surprising connections**, **Suggested questions** — they flag hubs and cross-module links you would not guess from filenames.
+2. Optionally open **`graphify-out/graph.html`** or **`graphify-out/wiki/index.md`** to orient by **communities**, then **open the cited `source_file` paths in the real repo** for detail.
+
+The graph is a **map**, not the territory: **implementation truth is always in source** (`raw/…`, clones, etc.).
+
+## When to go straight to source (*depth*)
+
+Skip the graph as the primary source if the user is asking for:
+
+- A **specific file**, API, or **line-by-line** behavior
+- **Entry points** called out in code comments (e.g. “read `main.c` in its entirety”)
+- **Build/run** steps, registers, or hardware details not fully captured in extraction
+
+In those cases you may read source immediately; use the graph **afterward** only if you need **neighbors, communities, or audit tags (EXTRACTED vs INFERRED)**.
+
+## Keeping the graph current
+
+After **material code changes** in tracked corpora, run graphify update on the affected tree (e.g. `graphify --update <path>`) so `graph.json` and the report stay aligned. Prefer project docs for the exact command; many setups use AST-only updates for code-only diffs.

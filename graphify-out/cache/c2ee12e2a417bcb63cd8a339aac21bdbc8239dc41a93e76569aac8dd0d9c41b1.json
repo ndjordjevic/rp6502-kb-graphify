@@ -1,0 +1,1 @@
+{"nodes": [{"id": "lwipopts_h_config", "label": "lwIP opts (NO_SYS DHCP TCP UDP)", "file_type": "code", "source_file": "raw/github/picocomputer/rp6502/src/ria/lwipopts.h", "source_location": "L6-40", "source_url": "https://github.com/picocomputer/rp6502", "captured_at": "2026-04-21T00:00:00Z", "author": "Rumbledethumps", "contributor": ""}], "edges": [], "hyperedges": []}
