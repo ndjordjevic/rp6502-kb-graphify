@@ -34,3 +34,12 @@ Out of scope: general Pico/RP2040 topics not specific to RP6502.
 | `raw/youtube/` | 21 YouTube transcript `.md` files (Picocomputer 6502 playlist) |
 | `raw/discord/` | 2 Discord `.txt` exports (rumbledethumps server: #chat, #razemos) |
 | `raw/github/` | 8 repos: `picocomputer/rp6502`, `picocomputer/examples`, `picocomputer/adventure`, etc. |
+
+## graphify
+
+This project has a graphify knowledge graph at graphify-out/.
+
+Rules:
+- Before answering architecture or codebase questions, read graphify-out/GRAPH_REPORT.md for god nodes and community structure
+- If graphify-out/wiki/index.md exists, navigate it instead of reading raw files
+- After modifying code files in this session, run `graphify update .` to keep the graph current (AST-only, no API cost)
